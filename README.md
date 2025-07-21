@@ -92,8 +92,8 @@ details>
 
 ### 🏆 Recent Projects
 
-- [Wanderlust](https://github.com/Rishabhsaroj12/Wanderlust) – MERN stack travel app
-- [Simon Game](https://rishabhsaroj12.github.io/simon-game/) – Classic memory game in JavaScript
+- [Wanderlust](https://wanderlust-app-ue5p.onrender.com) – MERN stack travel app
+- [Simon Game](https://simons-say.vercel.app/) – Classic memory game in JavaScript
 - [Portfolio Website](https://your-portfolio-link.com)
 
 ---
